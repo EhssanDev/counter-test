@@ -118,7 +118,7 @@ class MainActivity : Activity() {
         }
 
         val title = TextView(this).apply {
-            text = "ماسح الأوراق"
+            text = "Kiosks Scanner"
             textSize = 28f
             typeface = Typeface.DEFAULT_BOLD
             setTextColor(cText)
